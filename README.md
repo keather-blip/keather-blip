@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=00fr3szuuu">
+<a href="https://komarev.com/ghpvc/?username=aether">
   <img align="right" src="https://komarev.com/ghpvc/?username=00fr3szuuu&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -6,15 +6,15 @@
 [![wakatime](https://wakatime.com/badge/user/b665d1c4-43b1-4b9a-8376-b43adb7f7691.svg)](https://wakatime.com/@b665d1c4-43b1-4b9a-8376-b43adb7f7691)
 
 <h3 align="center">
-        <samp>&gt; Siemka, jestem Jakub znany szerzej jako
-                <b><a target="_blank" href="https://www.youtube.com/@00fr3szuu">00fr3szuu</a></b>
+        <samp>&gt; Siemka, jestem Oskar znany szerzej jako
+                <b><a target="_blank" href="https://www.youtube.com/@kanałowszystkim">aether</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://discord.gg/fastcode">FastCode CEO</a>
+    <a href="https://dc.gg/lordcodepl">LordCode CEO</a>
     <br>
     「 Jestem osobą zajmującą się tworzeniem oprogramowań dla serwerów minecraft </b> 」
     <br>
@@ -22,10 +22,10 @@
   </samp>
 </p>
 <p align="center">
- <a href="https://discord.gg/fastcode" target="blank">
+ <a href="https://dc.gg/lordcodepl" target="blank">
   <img src="https://img.shields.io/badge/Discord-0080ff?style=for-the-badge&logo=discord&logoColor=white" alt="Kontakt" />
  </a>
- <a href="https://www.youtube.com/@00fr3szuu" target="_blank">
+ <a href="https://www.youtube.com/@kanałowszystkim" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-ff2e2e?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
  </a>
 </p>
@@ -52,6 +52,3 @@
 <br/>
 <hr/>
 <br/>
-
-
-![00fr3szuu](https://github-readme-activity-graph.vercel.app/graph?username=00fr3szuuu&custom_title=00fr3szuu%20Wykres%20Aktywności%20Github&bg_color=007bff&color=FFFFFF&line=FFFFFF&point=0040ff&area_color=FFFFFF&title_color=FFFFFF&area=true)
